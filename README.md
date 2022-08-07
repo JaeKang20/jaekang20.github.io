@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JAEKANG CHOI's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JaeKang20/jaekang20.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
